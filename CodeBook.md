@@ -1,7 +1,5 @@
----
-title: "CodeBook for run_analysis.R"
-output: html_document
----
+#CodeBook for run_analysis.R
+
 =========================================
 
 ##Data set files
